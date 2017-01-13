@@ -1,0 +1,2 @@
+# solobure_native
+ソロブレーンストーミング 
